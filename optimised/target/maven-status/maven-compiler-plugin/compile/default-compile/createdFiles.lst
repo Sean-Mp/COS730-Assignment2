@@ -1,0 +1,16 @@
+com\cos730\EvaluationStrategy.class
+com\cos730\SubmissionController.class
+com\cos730\EvaluationService.class
+com\cos730\SubmissionData.class
+com\cos730\DatabaseManager.class
+com\cos730\Validator.class
+com\cos730\NotificationService$1.class
+com\cos730\SubmissionService.class
+com\cos730\ConsensusEvaluationStrategy.class
+com\cos730\Database.class
+com\cos730\EventBus.class
+com\cos730\NotificationService.class
+com\cos730\UI.class
+com\cos730\ReviewerService.class
+com\cos730\Reviewer.class
+com\cos730\EvaluationDecision.class
